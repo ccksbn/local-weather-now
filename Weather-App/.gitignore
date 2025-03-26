@@ -1,0 +1,29 @@
+# System files
+.DS_Store
+Thumbs.db
+*.lnk
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.sublime-workspace
+
+# API keys and sensitive data
+config.js
+.env
+secrets.json
+
+# Dependency directories 
+node_modules/
+
+# Local development files
+*.local
+*.log
+
+# Build directories 
+dist/
+build/
+
+# Cache
+.cache/
