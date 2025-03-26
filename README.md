@@ -26,14 +26,4 @@ A clean, responsive weather application that fetches real-time weather data from
    cd weather-app
    ```
 
-#Project Structure
-weather-app/
-├── index.html # Main HTML file
-├── weather.css # All styling
-├── getData.js # API interaction logic
-├── main.js # Event handlers and DOM manipulation
-├── images/ # Weather icons
-│ ├── cloudy-1-day.svg
-│ ├── clear-day.svg
-│ └── ...
-└── README.md # This file
+
